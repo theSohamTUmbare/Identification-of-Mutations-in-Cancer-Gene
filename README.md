@@ -1,4 +1,4 @@
-For the full methodology, model comparisons, and results, see **[Identification of Mutations in Cancer Gene.pdf](results/Identification of Mutations in Cancer Gene.pdf)**.
+For the full methodology, model comparisons, and results, see **[Identification of Mutations in Cancer Gene.pdf](<results/Identification of Mutations in Cancer Gene.pdf>)**.
 
 # Identification of Pathogenic Mutations in Cancer Genes
 
