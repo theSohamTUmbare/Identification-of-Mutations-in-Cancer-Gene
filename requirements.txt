@@ -1,0 +1,23 @@
+# Core scientific stack
+numpy>=1.26,<3
+pandas>=2.2,<3
+scipy>=1.12,<2
+
+# Visualization
+matplotlib>=3.8,<4
+seaborn>=0.13,<1
+
+# Machine learning
+scikit-learn>=1.4,<2
+
+# Notebook environment
+jupyterlab>=4.0,<5
+
+# Optional (used by some experiments in models/machine_learning_models.py)
+xgboost>=2.0,<3
+lightgbm>=4.3,<5
+
+# Optional deep learning (recommended to install from https://pytorch.org/get-started/locally/)
+# torch
+# torchvision
+# torchaudio
